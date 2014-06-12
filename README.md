@@ -7,6 +7,10 @@ If you want to, you can publish this plugin/edit/sell by yourself.
 
 (locked) Bukkit forum link: http://forums.bukkit.org/threads/looking-for-a-successor-survivalgames-plugin.270320/
 
+Command page from BukkitDev
+============
+Pastebin: http://pastebin.com/h2QJWpMc
+
 Other information
 ============
 
